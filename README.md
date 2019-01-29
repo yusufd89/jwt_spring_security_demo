@@ -20,9 +20,9 @@ Go to:
 
 ## Users
 
-Admin - admin:admin
-User - user:password
-Disabled - disabled:password
+   - Admin - admin:admin
+   - User - user:password
+   - Disabled - disabled:password
 
 ## user passwords
 
